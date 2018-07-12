@@ -53,3 +53,8 @@
   display: inline
   float:left;
 }
+
+.border_right {
+  display: inline;
+  float: left;
+}
