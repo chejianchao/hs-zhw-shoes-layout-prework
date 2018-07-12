@@ -48,3 +48,8 @@
 .last_section{
   margin-right: 0%;
 }
+
+#details {
+  display: inline
+  float:left;
+}
