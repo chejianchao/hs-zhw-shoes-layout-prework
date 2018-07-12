@@ -34,3 +34,8 @@
   width:75%;
   float:left;
 }
+
+#other_shoes section{
+  display: inline;
+  float: left;
+}
