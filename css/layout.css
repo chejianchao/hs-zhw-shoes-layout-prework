@@ -30,13 +30,14 @@
 }
 
 .left_div {
-  margin-top: 1%;
+  
   margin-right: 20px;
   width:75%;
   float:left;
 }
 
 #other_shoes section{
+  margin-top: 1%;
   display: inline;
   float: left;
   width: 32%;
