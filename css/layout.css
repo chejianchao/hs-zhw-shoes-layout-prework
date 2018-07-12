@@ -41,6 +41,6 @@
   width: 32%;
   margin-right: 1%;
 }
-#other_shoes section:last-child{
+#other_shoes:last{
   margin-right: 0;
 }
