@@ -57,4 +57,6 @@
 .border_right {
   display: inline;
   float: left;
+  margin-right: 1%;
+  
 }
